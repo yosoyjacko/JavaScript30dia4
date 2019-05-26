@@ -1,0 +1,13 @@
+html {
+    background: url(https://images4.alphacoders.com/563/thumb-1920-563004.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+  
+  p {
+    text-align: center;
+    color: red;
+    font-size: 80px;
+    font-family: 'Ultra', serif;
+  }
